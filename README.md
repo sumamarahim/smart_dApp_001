@@ -1,6 +1,6 @@
 # smart_dApp_001 in NextJS
 
-## how run this project in your local system?
+## how to run this project in your local system?
 - Clone this repo
 - Just change the page.tsx file code in src/app
 - after that simply change the layout.tsx file code
